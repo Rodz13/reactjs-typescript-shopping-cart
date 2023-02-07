@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    gap: 1rem;
+    padding: 0.25em;
+    margin: 0 1em;
+}
+
+.main--products {
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
